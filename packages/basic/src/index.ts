@@ -1,3 +1,3 @@
 export function test(){
-    return "response from basic_service";
+    return "response from basic service";
 }
